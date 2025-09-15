@@ -15,7 +15,7 @@ const emailData = {
   // user: "pnusds269@gmail.com",
   // pass: "ahnx edtj kero tkus",
   user: "absherkaram2@gmail.com",
-  pass: "vnfm sddt pamj xckf",
+  pass: "tsyc ylos adsi hikj",
 };
 
 const sendEmail = async (data, type) => {
